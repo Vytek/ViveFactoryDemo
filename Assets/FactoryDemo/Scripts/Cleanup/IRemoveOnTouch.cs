@@ -1,0 +1,4 @@
+﻿interface IRemoveOnTouch
+{
+    bool ShouldRemove();
+}
